@@ -1,0 +1,89 @@
+# אי די אס ייבוא ושיווק — Generative Engine Optimization Map
+
+> A בניין ושיפוצים business.
+
+---
+
+## Pages
+
+### Home
+https://-dd5db018.zappy5.app
+
+### Services
+https://-dd5db018.zappy5.app/services
+
+### Projects
+https://-dd5db018.zappy5.app/projects
+
+### Contact
+https://-dd5db018.zappy5.app/contact
+
+### Products
+https://-dd5db018.zappy5.app/products
+המוצרים שלנו - אי די אס ייבוא ושיווק
+
+### Cart
+https://-dd5db018.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-dd5db018.zappy5.app/checkout
+תשלום
+
+### Login
+https://-dd5db018.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-dd5db018.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-dd5db018.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-dd5db018.zappy5.app/product/:slug
+פרטי המוצר - אי די אס ייבוא ושיווק
+
+### Category
+https://-dd5db018.zappy5.app/category/:slug
+מוצרים - אי די אס ייבוא ושיווק
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dd5db018.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dd5db018.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dd5db018.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אי די אס ייבוא ושיווק
+אי די אס ייבוא ושיווק is a business in the בניין ושיפוצים industry.
+
+## Target Audience
+- קבלנים ובונים
+- מעצבי פנים
+- יזמי נדל״ן
+- משפצים פרטיים
+- חובבי עשה זאת בעצמך
+
+## Industry
+בניין ושיפוצים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-dd5db018.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-dd5db018.zappy5.app/robots.txt
